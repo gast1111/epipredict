@@ -3,10 +3,6 @@
 
 # epipredict
 
-<!-- badges: start -->
-
-[![R-CMD-check](https://github.com/cmu-delphi/epipredict/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cmu-delphi/epipredict/actions/workflows/R-CMD-check.yaml)
-<!-- badges: end -->
 
 **Note:** This package is currently in development and may not work as
 expected. Please file bug reports as issues in this repo, and we will do
